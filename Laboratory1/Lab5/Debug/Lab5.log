@@ -1,2 +1,7 @@
 ﻿  Laboratory5.c
-  Lab5.vcxproj -> C:\Users\dmitry\source\repos\Laboratory1\Debug\Lab5.exe
+C:\Users\Danila\C-Laboratory\Laboratory1\Lab5\Laboratory5.c(23,55): warning C4047:  функция: "Person *" отличается по уровням косвенного обращения от "Person (*)[2]"
+C:\Users\Danila\C-Laboratory\Laboratory1\Lab5\Laboratory5.c(23,55): warning C4024:  write: различные типы для формального и фактического параметров 2
+C:\Users\Danila\C-Laboratory\Laboratory1\Lab5\Laboratory5.c(24,56): warning C4047:  функция: "Person *" отличается по уровням косвенного обращения от "Person (*)[2]"
+C:\Users\Danila\C-Laboratory\Laboratory1\Lab5\Laboratory5.c(24,56): warning C4024:  write: различные типы для формального и фактического параметров 2
+C:\Users\Danila\C-Laboratory\Laboratory1\Lab5\Laboratory5.c(34,8): warning C4101:  c1: неиспользованная локальная переменная
+  Lab5.vcxproj -> C:\Users\Danila\C-Laboratory\Laboratory1\Debug\Lab5.exe
