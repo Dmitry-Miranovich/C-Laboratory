@@ -1,0 +1,4 @@
+﻿  Lab4.c
+C:\Users\dmitry\source\repos\Laboratory1\Laboratory4\Lab4.c(20,2): warning C4091: typedef : пропускается слева от "MyStruct_", когда ни одна переменная не объявлена
+C:\Users\dmitry\source\repos\Laboratory1\Laboratory4\Lab4.c(25,12): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+  Laboratory4.vcxproj -> C:\Users\dmitry\source\repos\Laboratory1\Debug\Laboratory4.exe
